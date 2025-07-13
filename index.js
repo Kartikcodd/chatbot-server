@@ -8,7 +8,7 @@
     const corsOptions = {
     origin: [
         "http://localhost:5173",
-        // "https://YOUR_FRONTEND_DOMAIN.com" // replace with your deployed frontend
+       "https://chatbot-frontend-fawn.vercel.app/"
     ],
     methods: ["GET", "POST", "OPTIONS"],
     credentials: true
