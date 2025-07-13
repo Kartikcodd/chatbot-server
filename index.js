@@ -8,7 +8,7 @@
     const corsOptions = {
     origin: [
         "http://localhost:5173",
-       "https://chatbot-frontend-fawn.vercel.app/"
+        "https://chatbot-frontend-fawn.vercel.app/"
     ],
     methods: ["GET", "POST", "OPTIONS"],
     credentials: true
