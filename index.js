@@ -4,6 +4,7 @@
     const { GoogleGenAI } = require("@google/genai");
     const app = express();
 
+    //cahnges in cors policy
 
     const corsOptions = {
     origin: [
